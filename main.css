@@ -1,0 +1,47 @@
+body {
+    font-size: medium;
+    padding: 20px 30px 40px;
+    text-align: center;
+    color: black;
+    
+}
+
+section h1 {
+    font-size: large;
+    color:bisque;
+    margin: 40px;
+}
+
+ul li {
+    text-align: left;
+    padding: 20px;
+    color:aqua;
+    border:none;
+}
+
+section h1 {
+    text-align:center;
+    color:brown;
+    border:none;
+}
+
+aside h1 {
+    text-align: center;
+    color:black;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+aside h2 {
+    color:pink;
+    font-size: medium;
+}
+aside h3 {
+    color:blanchedalmond;
+    font-size: smaller;
+}
+aside button {
+    color:blueviolet;
+    font-size: medium;
+    
+}
